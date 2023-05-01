@@ -1,0 +1,30 @@
+{
+  "name": "ajshworkdestruct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "specialAttack.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suhogruzz/AJSHworkDestruct.git"
+  },
+  "author": "Suhogruzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suhogruzz/AJSHworkDestruct/issues"
+  },
+  "homepage": "https://github.com/Suhogruzz/AJSHworkDestruct#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.21.5",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "core-js": "^3.30.1"
+  }
+}
