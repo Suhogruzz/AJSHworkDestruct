@@ -1,0 +1,1 @@
+AJSHWORK DESTRUCTURIZATION [![Build status](https://ci.appveyor.com/api/projects/status/qrswmmwxfggmyaw0?svg=true)](https://ci.appveyor.com/project/Suhogruzz/ajshworkdestruct)
